@@ -11,7 +11,6 @@ public class App {
 
 
     public static final Unit<Angle> DEG = UCUM.DEGREE;
-    public static final Unit<Angle> RAD = UCUM.RADIAN;
 
     public static final Quantity<Angle> DEGREES_360 = Quantities.getQuantity(360, DEG);
 
